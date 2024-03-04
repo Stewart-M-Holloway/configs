@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+name = Stewart-M-Holloway
+email = stewart.m.holloway@gmail.com
+
+[alias]
+        mr = push -u origin HEAD
